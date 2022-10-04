@@ -1,5 +1,6 @@
 ### Guidelines and rules to be followed before making a pull request
- 
+
+- ##### Before working on an issue, make sure it is assigned to you. If this is not followed, invalid pull requests will be not merged and will be closed.
 - ##### Languages accepted : Python, C++, Java, Kotlin
 - ##### Time complexity and memory complexity of code is required.
 - ##### Clean and readable code is preferred.
