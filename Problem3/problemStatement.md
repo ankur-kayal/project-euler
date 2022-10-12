@@ -1,4 +1,4 @@
-#### Problem Name : Multiples of 3 and 5
+#### Problem Name : Largest Prime Factor
 
 ##### Problem description :
 
